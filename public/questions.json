@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "text": "Сколько бит в одном байте?",
+    "options": [{"label": "4", "value": 1}, {"label": "8", "value": 2}]
+  },
+  {
+    "id": 2,
+    "text": "Какой тег используется для создания ссылки в HTML?",
+    "options": ["<link>", "<a>", "<href>", "<url>"],
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "text": "Какой CSS-свойство задаёт цвет текста?",
+    "options": ["text-color", "color", "font-color", "background-color"],
+    "correct": 1
+  },
+  {
+    "id": 4,
+    "text": "Что выведет console.log(typeof null) в JavaScript?",
+    "options": ["null", "undefined", "object", "number"],
+    "correct": 2
+  },
+  {
+    "id": 5,
+    "text": "Какой HTTP-метод обычно используется для получения данных?",
+    "options": ["POST", "PUT", "GET", "DELETE"],
+    "correct": 2
+  },
+  {
+    "id": 6,
+    "text": "Какой фреймворк использует однофайловые компоненты (.vue)?",
+    "options": ["React", "Angular", "Vue.js", "Svelte"],
+    "correct": 2
+  },
+  {
+    "id": 7,
+    "text": "Что означает CSS-единица 'rem'?",
+    "options": ["Root EM", "Relative EM", "Responsive EM", "Random EM"],
+    "correct": 0
+  },
+  {
+    "id": 8,
+    "text": "Какой командой создать новый проект Nuxt 3?",
+    "options": ["npx create-nuxt-app", "npx nuxi init", "npm init nuxt", "vue create nuxt"],
+    "correct": 1
+  },
+  {
+    "id": 9,
+    "text": "Что делает директива v-model в Vue?",
+    "options": ["Двустороннее связывание данных", "Одностороннее связывание", "Рендеринг списка", "Условный рендеринг"],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "text": "Какой из перечисленных вариантов является правильным способом установки Tailwind CSS?",
+    "options": ["npm install tailwind", "npm install tailwindcss", "npm install tailwind-css", "npm i tailwind-ui"],
+    "correct": 1
+  }
+]
